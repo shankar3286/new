@@ -1,11 +1,1 @@
- Volume in drive C is Windows8_OS
- Volume Serial Number is 2C01-C084
-
- Directory of C:\Users\shivu\Desktop\testing
-
-11/11/2017  04:02 PM    <DIR>          .
-11/11/2017  04:02 PM    <DIR>          ..
-11/11/2017  03:56 PM               112 myfirstproject.txt
-11/11/2017  04:02 PM                 0 new.txt
-               2 File(s)            112 bytes
-               2 Dir(s)  53,957,439,488 bytes free
+hiii ho
